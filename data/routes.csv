@@ -1,0 +1,33 @@
+traffic_rank,route,name,ends,length_km,aadt_stations,aadt_median,aadt_max,heavy_pct,sample_points,avg_budget_5km,points_zero_budget_5km,best_gap_place,best_gap_score,road_type,sub_type,rank_all
+1,35,Rama II Rd,Chom Thong – Pak Tho,84.0,5,143116,259277,36.5,5,5,0,นาโคก,74.9,highway,,1
+2,34,Bang Na – Trat Rd,Bang Na – Chonburi,58.9,5,118081,250222,39.5,4,8.5,0,บางวัว,59.0,highway,,2
+3,32,Asian Highway (central),Bang Pa-in – Manorom,150.5,8,45826,124390,29.1,5,3,4,บางปะอิน,124.4,highway,,3
+4,36,Pattaya – Rayong Bypass,Bang Lamung – Rayong,57.0,5,40303,63608,23.6,4,6.8,0,มาบข่า,15.9,highway,,5
+5,37,Cha-am – Pranburi Bypass,Cha-am – Pranburi,47.5,1,35453,35453,33.5,1,15,0,ชะอำ,2.2,highway,,8
+6,2,Mittraphap Rd,Saraburi – Nong Khai,495.4,26,35021,121874,29.9,5,6.8,1,บ่อทอง,38.0,highway,,9
+7,3,Sukhumvit Rd,Bangkok – Hat Lek,426.9,19,31386,63577,16.6,5,5,1,คลองด่าน,57.8,highway,,11
+8,41,Asian Highway (south),Chumphon – Phatthalung,382.6,15,23549,41887,29.0,5,1,1,ถ้ำพรรณรา,25.6,highway,,18
+9,4,Phetkasem Rd,Bangkok – Sadao,1270.0,61,22605,100020,19.5,5,1,2,พระประโทน,100.0,highway,,19
+10,33,Suphanburi – Aranyaprathet,Suphan Buri – Aranyaprathet,299.5,10,18928,28640,27.9,5,2.4,3,บ้านคลองยาง,28.6,highway,,20
+11,43,Hat Yai – Pattani Hwy,Hat Yai – Yaring,109.2,4,18805,25124,14.8,4,4,2,ปากช่อง,25.1,highway,,21
+12,1,Phahonyothin Rd,Bangkok – Mae Sai,994.7,51,18455,231957,22.7,5,2.2,3,เกาะคา,59.9,highway,,22
+13,23,Chaengsanit Rd,Ban Phai – Ubon Ratchathani,278.8,18,14971,25721,12.6,5,1.2,4,บ้านห้วยแอ่ง,25.7,highway,,23
+14,24,Sikhio – Ubon road,Sikhio – Ubon Ratchathani,420.1,18,13721,33853,20.7,5,4.8,2,สี่แยกปักธงชัย,32.2,highway,,24
+15,22,Nittayo Rd,Udon Thani – Nakhon Phanom,239.2,13,12401,39342,12.9,5,0.4,3,หนองขาม,39.3,highway,,25
+16,12,Mae Sot – Mukdahan road,Mae Sot – Mukdahan,793.4,31,12330,102821,11.5,5,4.8,2,บ้านร่องแซง,44.7,highway,,26
+17,11,Inburi – Chiang Mai road,Inburi – Chiang Mai,562.7,24,11307,67150,21.6,5,0.2,4,อุโมงค์,33.6,highway,,27
+18,21,Saraburi – Lom Sak – Loei,Chaloem Phra Kiat – Loei,412.9,20,10689,29111,16.9,5,0.8,3,บ้านหัวนา,15.5,highway,,28
+19,44,Southern Rd (Krabi–Khanom),Ao Luek – Kanchanadit,133.2,3,10538,12949,23.4,3,0,3,ท่าเรือ–หินโงก,12.9,highway,,29
+20,42,Pattani – Narathiwat road,Sadao – Su-ngai Kolok,262.3,12,7699,14467,11.2,5,0,5,ดอนยาง,14.5,highway,,30
+,31,Vibhavadi Rangsit Rd,Din Daeng – Don Mueang,23.5,0,,,,0,,0,,,highway,,
+,38,(now Motorway 5),—,,0,,,,0,,0,,,highway,,
+1,375,Ban Bo – Nakhon Pathom – Lam Luk Bua,Ban Bo – Lam Luk Bua,,3,42129,61581,33.1,3,0.3,2,บ้านสามแก้ว,42.1,secondary,intercity,4
+2,315,Chachoengsao – Chonburi,Hua Phai – Chonburi,,3,37329,99896,32.2,3,4,1,บ้านโพธิ์,37.3,secondary,intercity,6
+3,121,Chiang Mai outer ring road,Ring road,,4,37105,43358,4.0,3,3,0,สันผีเสื้อ,18.6,secondary,ring,7
+4,344,Ban Bueng – Klaeng,Nong Ri – Thang Kwian,,4,33249,82055,25.6,3,0,3,บ้านหนองชาก,33.2,secondary,intercity,10
+5,331,Sattahip – Phanom Sarakham,Phlu Ta Luang – Si Yaek Na Noi,,8,28081,49706,39.9,3,0,3,เขาไม้แก้ว,28.1,secondary,intercity,12
+6,216,Udon Thani ring road,Ring road,,3,27940,29897,11.1,3,14,0,บ้านหนองหิน,2.1,secondary,ring,13
+7,362,Saraburi ring road,Ring road,,3,27872,33389,26.5,3,5.7,0,กุดนกเปล้า,7.0,secondary,ring,14
+8,291,Maha Sarakham bypass,Bypass,,3,25806,26110,7.7,3,10.7,0,บ้านหม้อ,2.6,secondary,ring,15
+9,126,Phitsanulok ring road,Ring road,,4,25145,31646,24.0,3,3.3,0,หมู่บ้านบุณฑริก,12.6,secondary,ring,16
+10,402,Thepkrasattri Rd,Khok Kloi – Phuket Town,,3,25137,38809,12.1,3,5,1,บ้านท่านุ่น,25.1,secondary,intercity,17

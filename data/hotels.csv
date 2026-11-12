@@ -1,0 +1,732 @@
+point_id,route,place,hotel,price_thb,distance_km,band,road_type
+1-202,1,ทางแยกต่างระดับคลองหลวง,Baanmali Ari,799,0.2,≤2 km,highway
+1-202,1,ทางแยกต่างระดับคลองหลวง,Natcha Place TU Rangsit,505,0.3,≤2 km,highway
+1-202,1,ทางแยกต่างระดับคลองหลวง,Natcha Place Klongluang 35,479,0.3,≤2 km,highway
+1-202,1,ทางแยกต่างระดับคลองหลวง,Good Morning Apartment รังสิต,757,0.3,≤2 km,highway
+1-202,1,ทางแยกต่างระดับคลองหลวง,RoomQuest SPS Hotel and Residence,658,0.7,≤2 km,highway
+1-202,1,ทางแยกต่างระดับคลองหลวง,Freem home,588,1.9,≤2 km,highway
+1-202,1,ทางแยกต่างระดับคลองหลวง,Z.H.P Hotel,561,2.1,2–5 km,highway
+1-202,1,ทางแยกต่างระดับคลองหลวง,Bannluangsiri,654,3.0,2–5 km,highway
+1-202,1,ทางแยกต่างระดับคลองหลวง,PSM AT RANGSIT,551,4.2,2–5 km,highway
+1-202,1,ทางแยกต่างระดับคลองหลวง,Chateau Residences,715,4.5,2–5 km,highway
+1-202,1,ทางแยกต่างระดับคลองหลวง,เทพกุญชร Budget-Friendly Room,675,5.5,5–10 km,highway
+1-202,1,ทางแยกต่างระดับคลองหลวง,Loft2s Rangsit,712,5.7,5–10 km,highway
+1-202,1,ทางแยกต่างระดับคลองหลวง,The Sky Loft Hotel,618,6.3,5–10 km,highway
+1-202,1,ทางแยกต่างระดับคลองหลวง,อมรรัตน์Room,742,7.7,5–10 km,highway
+1-202,1,ทางแยกต่างระดับคลองหลวง,Sukjai Loft,568,8.7,5–10 km,highway
+1-801,1,บ้านหว้า,สังข์เงินรีสอร์ท2,551,8.1,5–10 km,highway
+1-801,1,บ้านหว้า,บ้านพักซอย 8 โฮสเทล,546,8.8,5–10 km,highway
+1-801,1,บ้านหว้า,เอ็นพี เดอะปาย ห้องพักนครสวรรค์,327,9.8,5–10 km,highway
+1-1104,1,เกาะคา,บ้านสวนยายชุ่ม/bannsuanyaychum,673,6.5,5–10 km,highway
+1-1104,1,เกาะคา,Lampang Green Garden Resort,604,7.6,5–10 km,highway
+1-1104,1,เกาะคา,One Budget Hotel Lampang Phahonyothin,499,8.5,5–10 km,highway
+1-1104,1,เกาะคา,รีสอร์ทที่ลำปาง (Resort At Lampang),501,9.7,5–10 km,highway
+1-1104,1,เกาะคา,U-Thong Garden Resort,562,9.9,5–10 km,highway
+1-1104,1,เกาะคา,Grand Amazon Hotel,596,10.0,5–10 km,highway
+1-1104,1,เกาะคา,Butnamtong Hotel,490,10.0,5–10 km,highway
+1-1301,1,บ้านแม่กา,Takeda - ทาเคดะ,467,4.0,2–5 km,highway
+2-102,2,ตาลเดี่ยว (แก่งคอย),changrojresort,565,2.7,2–5 km,highway
+2-102,2,ตาลเดี่ยว (แก่งคอย),Hongthong,706,4.7,2–5 km,highway
+2-102,2,ตาลเดี่ยว (แก่งคอย),โรงแรมเรือนขุมทรัพย์,463,4.8,2–5 km,highway
+2-102,2,ตาลเดี่ยว (แก่งคอย),โรงแรมปั้นเงินปั้นทอง อินน์ รีสอร์ท2,757,5.6,5–10 km,highway
+2-102,2,ตาลเดี่ยว (แก่งคอย),The Bua Boutique Resort,589,5.8,5–10 km,highway
+2-102,2,ตาลเดี่ยว (แก่งคอย),ควีนเพลส สระบุรี Queenplace Saraburi,561,6.9,5–10 km,highway
+2-102,2,ตาลเดี่ยว (แก่งคอย),โรงแรมเมืองเพรียวอินน์ Mueang Phriao Inn Hotel,551,7.1,5–10 km,highway
+2-102,2,ตาลเดี่ยว (แก่งคอย),MP Inn,467,7.2,5–10 km,highway
+2-102,2,ตาลเดี่ยว (แก่งคอย),At Home สระบุรี,421,8.3,5–10 km,highway
+2-102,2,ตาลเดี่ยว (แก่งคอย),HOP INN Saraburi,748,9.2,5–10 km,highway
+2-202,2,บ่อทอง,บ้านมาดาม เขาใหญ่,570,6.8,5–10 km,highway
+2-202,2,บ่อทอง,Ban Lake View,631,7.6,5–10 km,highway
+2-202,2,บ่อทอง,in love รีสอร์ท ผัง 3 เขาใหญ่,757,8.2,5–10 km,highway
+2-202,2,บ่อทอง,Wellness World Chiva Khao Yai,712,8.7,5–10 km,highway
+2-202,2,บ่อทอง,ปากช่องอพาร์ทเม้นท์,701,8.8,5–10 km,highway
+2-202,2,บ่อทอง,Pakchong hostel & wildlife tour,327,9.5,5–10 km,highway
+2-202,2,บ่อทอง,Trekkecoguesthouse,513,10.0,5–10 km,highway
+2-301,2,นครราชสีมา,Sansabai House,514,0.4,≤2 km,highway
+2-301,2,นครราชสีมา,Srivichai Hotel,501,0.7,≤2 km,highway
+2-301,2,นครราชสีมา,โรงแรมศิริโฮเต็ล Sirihotel Korat,501,0.7,≤2 km,highway
+2-301,2,นครราชสีมา,Moonlight House,469,0.8,≤2 km,highway
+2-301,2,นครราชสีมา,โรงแรมฟ้าไทย,308,0.9,≤2 km,highway
+2-301,2,นครราชสีมา,Sakol Hotel,462,1.1,≤2 km,highway
+2-301,2,นครราชสีมา,Saengcanthr แสงจันทร์,491,1.1,≤2 km,highway
+2-301,2,นครราชสีมา,JJ Place Korat,445,1.2,≤2 km,highway
+2-301,2,นครราชสีมา,Urban-Bamboo,552,1.4,≤2 km,highway
+2-301,2,นครราชสีมา,Thai Inter Korat Hotel,637,1.4,≤2 km,highway
+2-301,2,นครราชสีมา,J Jamroon Place,501,1.4,≤2 km,highway
+2-301,2,นครราชสีมา,U Place Korat,610,1.5,≤2 km,highway
+2-301,2,นครราชสีมา,Crystal Resort Korat,611,1.7,≤2 km,highway
+2-301,2,นครราชสีมา,Sawairiang Place,399,1.8,≤2 km,highway
+2-301,2,นครราชสีมา,บ้านเกื้อ เดอะ ลิฟวิ่ง,493,1.8,≤2 km,highway
+2-502,2,ขอนแก่น,OMG Hotel,692,0.4,≤2 km,highway
+2-502,2,ขอนแก่น,Saksiri apartment,573,0.6,≤2 km,highway
+2-502,2,ขอนแก่น,Grand Leo Hotel,556,0.8,≤2 km,highway
+2-502,2,ขอนแก่น,Phu Inn Hotel,565,0.8,≤2 km,highway
+2-502,2,ขอนแก่น,Supreme Place SHA Plus,631,0.9,≤2 km,highway
+2-502,2,ขอนแก่น,Chaipat Hotel,551,0.9,≤2 km,highway
+2-502,2,ขอนแก่น,Roma Hotel,445,1.0,≤2 km,highway
+2-502,2,ขอนแก่น,Piman Garden Boutique Hotel,474,1.0,≤2 km,highway
+2-502,2,ขอนแก่น,โรงแรมวีวิช V Wish Hotel,645,1.0,≤2 km,highway
+2-502,2,ขอนแก่น,The1place,502,1.2,≤2 km,highway
+2-502,2,ขอนแก่น,Modcava Homestay,321,1.4,≤2 km,highway
+2-502,2,ขอนแก่น,Khon Kaen Ruenrom Hotel,359,1.4,≤2 km,highway
+2-502,2,ขอนแก่น,Baan Vor. Sumongkol Service Apartment,514,1.4,≤2 km,highway
+2-502,2,ขอนแก่น,Pai Tawan Resort Hotel - Pet friendly,578,1.7,≤2 km,highway
+2-502,2,ขอนแก่น,Lay Day,450,1.8,≤2 km,highway
+2-503,2,หินลาด–โนนสะอาด,Fandee suites,715,4.6,2–5 km,highway
+2-503,2,หินลาด–โนนสะอาด,Restaurant Mayuree,589,8.8,5–10 km,highway
+3-402,3,ศรีราชา,Mike's Condo,755,0.2,≤2 km,highway
+3-402,3,ศรีราชา,บ้านโนรีแมนชั่น,421,0.8,≤2 km,highway
+3-402,3,ศรีราชา,บ้านโนรีแมนชั่น,505,0.8,≤2 km,highway
+3-402,3,ศรีราชา,บ้านบี เซอร์วิส อพาร์ตเมนต์,673,0.9,≤2 km,highway
+3-402,3,ศรีราชา,Picnic Si Racha,555,2.1,2–5 km,highway
+3-402,3,ศรีราชา,Hampton Deluxe Ocean Sriracha,627,2.4,2–5 km,highway
+3-402,3,ศรีราชา,Hi End Hotel Sriracha,580,3.0,2–5 km,highway
+3-402,3,ศรีราชา,Kanda Guesthouse,467,3.2,2–5 km,highway
+3-402,3,ศรีราชา,aSleep Hotel Sriracha แอสลีพ โฮเทล,580,5.9,5–10 km,highway
+3-402,3,ศรีราชา,OYO 1166 Train Way Resort,529,8.4,5–10 km,highway
+3-402,3,ศรีราชา,Top View Hotel - SHA Extra Plus,758,8.5,5–10 km,highway
+3-402,3,ศรีราชา,Avana Laem Chabang Boutique Hotel,666,8.8,5–10 km,highway
+3-402,3,ศรีราชา,Baan Pak Sud Soi,599,8.9,5–10 km,highway
+3-501,3,มาบตาพุด,Secret Hotel,542,1.5,≤2 km,highway
+3-501,3,มาบตาพุด,Baanpuklertsuk,547,2.2,2–5 km,highway
+3-501,3,มาบตาพุด,Baanpuklertsuk3,589,2.2,2–5 km,highway
+3-501,3,มาบตาพุด,Suan Palm Garden View,426,4.8,2–5 km,highway
+3-501,3,มาบตาพุด,ไม่เปิดรับจอง,462,4.9,2–5 km,highway
+3-501,3,มาบตาพุด,Softbox Hostel,708,5.8,5–10 km,highway
+3-501,3,มาบตาพุด,Rayong Valley Resort,552,6.2,5–10 km,highway
+3-501,3,มาบตาพุด,Hub de Leaf @ Rayong,602,6.8,5–10 km,highway
+3-501,3,มาบตาพุด,ROJI Resort,547,7.5,5–10 km,highway
+3-501,3,มาบตาพุด,Wan Resort Rayong,442,7.7,5–10 km,highway
+3-501,3,มาบตาพุด,The Room Relax,536,7.9,5–10 km,highway
+3-501,3,มาบตาพุด,BaanHim,459,8.6,5–10 km,highway
+3-501,3,มาบตาพุด,Rayonghouse Resort,505,9.1,5–10 km,highway
+3-501,3,มาบตาพุด,East Inn 15 Rayong - SHA Certified,493,9.1,5–10 km,highway
+3-501,3,มาบตาพุด,HOP INN Rayong Sukhumvit Road,673,9.7,5–10 km,highway
+3-602,3,บ้านสิ้ว,Keree Lakeview,522,1.2,≤2 km,highway
+3-602,3,บ้านสิ้ว,Bankaew Hotel,522,1.5,≤2 km,highway
+3-602,3,บ้านสิ้ว,Bed Tel,551,1.8,≤2 km,highway
+3-602,3,บ้านสิ้ว,Blue Bed Hotel,794,2.5,2–5 km,highway
+3-602,3,บ้านสิ้ว,เค้ง Kheng Chanthaburi,757,2.7,2–5 km,highway
+3-602,3,บ้านสิ้ว,Lamer Ville - ละเมอวิลล์ จันทบุรี,570,2.8,2–5 km,highway
+3-602,3,บ้านสิ้ว,ฝันดี รีสอร์ท-Fundee resort,547,2.8,2–5 km,highway
+3-602,3,บ้านสิ้ว,New โรงแรมบ้านสวนฟ้าใส,589,3.1,2–5 km,highway
+3-602,3,บ้านสิ้ว,Myrrh Hotel Chanthaburi,545,4.2,2–5 km,highway
+3-602,3,บ้านสิ้ว,นอนสบาย บูทีค รีสอร์ท,613,5.1,5–10 km,highway
+3-602,3,บ้านสิ้ว,Eco Inn Lite Chanthaburi,487,5.1,5–10 km,highway
+3-602,3,บ้านสิ้ว,Ban Nokhook New,556,5.3,5–10 km,highway
+3-602,3,บ้านสิ้ว,Chertel Poshtel,701,5.9,5–10 km,highway
+3-602,3,บ้านสิ้ว,ChomTique Hotel,654,5.9,5–10 km,highway
+3-602,3,บ้านสิ้ว,Laluna,398,6.2,5–10 km,highway
+3-603,3,บ้านพลิ้ว (ขลุง),Mongkhon Boutique Hotel,611,2.7,2–5 km,highway
+3-603,3,บ้านพลิ้ว (ขลุง),โรงแรมแอมไอม่อน - Am Amoonds Hotel,722,3.4,2–5 km,highway
+3-603,3,บ้านพลิ้ว (ขลุง),บ้านสวนครูเย็น,710,4.0,2–5 km,highway
+3-603,3,บ้านพลิ้ว (ขลุง),Bai Pai Resort,551,6.2,5–10 km,highway
+4-202,4,พระประโทน,Feel like home แบบบ้านบ้าน,748,5.5,5–10 km,highway
+4-202,4,พระประโทน,JB Place,561,6.6,5–10 km,highway
+4-202,4,พระประโทน,Chompoo Inn,544,8.4,5–10 km,highway
+4-202,4,พระประโทน,Bananaleaf Wedding Cafe & Resort,534,8.5,5–10 km,highway
+4-202,4,พระประโทน,Beung Sampathuan Nakornchaisri Resort,665,9.1,5–10 km,highway
+4-202,4,พระประโทน,Busaya Resort & Cuisine,684,9.6,5–10 km,highway
+4-501,4,บ้านสระพัง,LeMae Residence เลอเม เรสซิเดนซ์ อำเภอเขาย้อย เพชรบุรี,574,2.1,2–5 km,highway
+4-501,4,บ้านสระพัง,Banana Hotel,631,2.8,2–5 km,highway
+4-501,4,บ้านสระพัง,ลานนา รีสอร์ท,681,3.0,2–5 km,highway
+4-501,4,บ้านสระพัง,โรงแรมบ้านนก,545,5.3,5–10 km,highway
+4-501,4,บ้านสระพัง,Pophouse,636,5.8,5–10 km,highway
+4-501,4,บ้านสระพัง,SB Inn,552,6.5,5–10 km,highway
+4-501,4,บ้านสระพัง,เขายัอยวาเล่ย์,547,6.7,5–10 km,highway
+4-702,4,พ่อตาหินช้าง–วังครก,Jumbo House,535,0.7,≤2 km,highway
+4-1203,4,ลำภูรา,ริมธารรีสอร์ทตรัง,488,4.4,2–5 km,highway
+4-1203,4,ลำภูรา,ริมธารรีสอร์ทตรัง,505,5.5,5–10 km,highway
+11-900,11,อุโมงค์,Bansappoori,467,3.6,2–5 km,highway
+11-900,11,อุโมงค์,Nornlamphun Boutique Hotel นอนลำพูน,799,7.3,5–10 km,highway
+11-900,11,อุโมงค์,Lang Suan Resort Saraphi,792,8.3,5–10 km,highway
+11-900,11,อุโมงค์,Thaen Thong Hotel,280,8.7,5–10 km,highway
+11-900,11,อุโมงค์,The Grand Jamjuree Resort Lamphun,794,8.7,5–10 km,highway
+11-900,11,อุโมงค์,Dnk Baan Suan,651,9.0,5–10 km,highway
+11-900,11,อุโมงค์,OYO 553 Kongsup Resort,486,9.9,5–10 km,highway
+12-302,12,สุโขทัย,The Nature Resort Sukhothai,750,0.35,≤2 km,highway
+12-302,12,สุโขทัย,Perfect Resort and Motorbike & Bicycle for rents Sukhothai,467,0.6,≤2 km,highway
+12-302,12,สุโขทัย,RuengsriSiri Guesthouse,262,0.7,≤2 km,highway
+12-302,12,สุโขทัย,KTT Resort and Motorbike & Bicycle for rents Sukhothai,427,0.7,≤2 km,highway
+12-302,12,สุโขทัย,Rueangsrisiri Guesthouse 2,439,0.7,≤2 km,highway
+12-302,12,สุโขทัย,TR Guesthouse,607,0.8,≤2 km,highway
+12-302,12,สุโขทัย,Nakorn De Sukhothai Hip Hotel,748,1.1,≤2 km,highway
+12-302,12,สุโขทัย,Ruen Narisra Resort,467,6.5,5–10 km,highway
+12-302,12,สุโขทัย,J-Safe Guesthouse,785,9.6,5–10 km,highway
+12-402,12,พิษณุโลก,Karma Home Hostel,409,0.1,≤2 km,highway
+12-402,12,พิษณุโลก,Nap Corner hostel,598,0.15,≤2 km,highway
+12-402,12,พิษณุโลก,Kraisaeng Place,364,0.25,≤2 km,highway
+12-402,12,พิษณุโลก,โรงแรมโกลเด้นแกรนด์ พิษณุโลก Golden Grand Hotel,561,0.3,≤2 km,highway
+12-402,12,พิษณุโลก,Pailyn Hotel Phitsanulok,693,0.35,≤2 km,highway
+12-402,12,พิษณุโลก,The Prince Hotel,395,0.35,≤2 km,highway
+12-402,12,พิษณุโลก,Baan Baan Cozy Hostel,439,0.45,≤2 km,highway
+12-402,12,พิษณุโลก,โรงแรมเอเซีย,327,0.8,≤2 km,highway
+12-402,12,พิษณุโลก,ทองธิดาอพาร์ทเม้นท์,333,1.2,≤2 km,highway
+12-402,12,พิษณุโลก,เพิ่มพูนแมนชั่น พิษณุโลก Phoempun Mansion,403,1.5,≤2 km,highway
+12-402,12,พิษณุโลก,Phoonsab Hostel,353,1.5,≤2 km,highway
+12-402,12,พิษณุโลก,AVA Hotel,423,1.9,≤2 km,highway
+12-402,12,พิษณุโลก,Rattana View,577,2.1,2–5 km,highway
+12-402,12,พิษณุโลก,SLEEPLESS ROOM Phitsanulok,542,2.2,2–5 km,highway
+12-402,12,พิษณุโลก,Rattana Park Hotel,653,2.2,2–5 km,highway
+12-702,12,บ้านร่องแซง,เพาะสุข กู๊ดดรีม,748,7.0,5–10 km,highway
+12-801,12,บ้านฝาง,วังตาน้ำรีสอร์ท,346,0.6,≤2 km,highway
+12-801,12,บ้านฝาง,รีสอร์ท,748,3.0,2–5 km,highway
+12-801,12,บ้านฝาง,BB house & resort,468,6.7,5–10 km,highway
+21-200,21,แยกมะนาวหวาน,The iKon Apartment,738,1.2,≤2 km,highway
+21-200,21,แยกมะนาวหวาน,ศูนย์ประชุม โสมาภา รีสอร์ต,561,9.6,5–10 km,highway
+21-402,21,ซับสมอทอด,สายป่านอาพาร์ทเม้นท์,449,0.25,≤2 km,highway
+21-402,21,ซับสมอทอด,Sleep สลีพพ,757,0.7,≤2 km,highway
+21-402,21,ซับสมอทอด,Cool Cat House ครูแคทเฮาส์,521,0.9,≤2 km,highway
+21-602,21,บ้านโคกงาม,Nature Garden House,748,7.7,5–10 km,highway
+22-201,22,หนองขาม,Banjan Stay,536,7.3,5–10 km,highway
+22-201,22,หนองขาม,TR Hotel Udon Thani,577,7.5,5–10 km,highway
+22-201,22,หนองขาม,ภูมิพิมานเฮ้าส์,543,8.0,5–10 km,highway
+22-201,22,หนองขาม,Sunshine Place Udon,435,8.7,5–10 km,highway
+22-201,22,หนองขาม,The Like hotel,561,9.0,5–10 km,highway
+22-201,22,หนองขาม,The Lion King Hotel by Thai Baan Ozone Udonthani,525,9.1,5–10 km,highway
+22-201,22,หนองขาม,Nuntiya Terrace,467,9.1,5–10 km,highway
+22-201,22,หนองขาม,The Resto,508,9.1,5–10 km,highway
+22-201,22,หนองขาม,The Cape Hotel,551,9.9,5–10 km,highway
+22-201,22,หนองขาม,Kangaroo Residence Udonthani,675,9.9,5–10 km,highway
+22-301,22,สว่างแดนดิน,The luxury,510,4.4,2–5 km,highway
+22-401,22,บ้านสูงเนิน,KANNA Hostel,799,3.5,2–5 km,highway
+23-100,23,บ้านไผ่,ศรีวดีโฮม(Sriwadee Home),417,1.3,≤2 km,highway
+23-100,23,บ้านไผ่,Markai Garden,799,2.0,≤2 km,highway
+23-100,23,บ้านไผ่,เดอเนส บูติก โฮม C9 Denest Boutique Home,738,2.6,2–5 km,highway
+23-100,23,บ้านไผ่,Dehut Boutique Homestay hut4,794,2.6,2–5 km,highway
+23-100,23,บ้านไผ่,เดอเนส บูติก โฮม C1 Denest Boutique Home,738,2.6,2–5 km,highway
+23-100,23,บ้านไผ่,Dehut Boutique Homestay hut5,794,2.6,2–5 km,highway
+23-100,23,บ้านไผ่,รุ่งเรืองรีสอร์ท3,561,6.1,5–10 km,highway
+23-100,23,บ้านไผ่,Rungreang Hotel,527,9.6,5–10 km,highway
+23-403,23,บ้านย่อ,กอข้าว รีสอร์ท,320,6.4,5–10 km,highway
+24-202,24,สี่แยกปักธงชัย,SiLin Hotel,580,9.8,5–10 km,highway
+24-303,24,นางรอง,S.S.Hotel Nangrong,551,0.35,≤2 km,highway
+24-303,24,นางรอง,The Room Nangrong,631,0.6,≤2 km,highway
+24-303,24,นางรอง,โรงแรมแรบบิท Rabbit Hotel Nangrong,607,0.8,≤2 km,highway
+24-303,24,นางรอง,P.California Inter Hostel,291,0.8,≤2 km,highway
+24-303,24,นางรอง,อารา รีสอร์ท Ara Resort,449,1.3,≤2 km,highway
+24-303,24,นางรอง,Feel good at Nangrong,715,1.4,≤2 km,highway
+24-303,24,นางรอง,Akelada Hotel,654,1.5,≤2 km,highway
+24-303,24,นางรอง,เกษมสุขรีสอร์ท Kasamesuk Resort,477,8.1,5–10 km,highway
+24-401,24,จรอกใหญ่–กระเทียม (ปราสาท),ปราสาทรีสอร์ท,547,0.6,≤2 km,highway
+24-401,24,จรอกใหญ่–กระเทียม (ปราสาท),Baan Thung Home Stay,607,3.7,2–5 km,highway
+24-401,24,จรอกใหญ่–กระเทียม (ปราสาท),Ryans Resort,595,5.6,5–10 km,highway
+24-702,24,อุบลราชธานี,28 Rachabutr Hostel,323,0.5,≤2 km,highway
+24-702,24,อุบลราชธานี,Eco Inn Lite Ubon Ratchathani,401,1.1,≤2 km,highway
+24-702,24,อุบลราชธานี,Bordin Hotel,567,1.3,≤2 km,highway
+24-702,24,อุบลราชธานี,Chatsuree Mansion,490,1.6,≤2 km,highway
+24-702,24,อุบลราชธานี,Tokyo Hotel,449,1.7,≤2 km,highway
+24-702,24,อุบลราชธานี,Laithong Hotel Ubon Ratchathani,748,1.9,≤2 km,highway
+24-702,24,อุบลราชธานี,Doctor Thanut Hostel,421,2.0,≤2 km,highway
+24-702,24,อุบลราชธานี,Suriyart Hotel,327,2.0,≤2 km,highway
+24-702,24,อุบลราชธานี,Lay Low AC Hostel Nr Airport Ubon ที่พัก เลโล,256,2.1,2–5 km,highway
+24-702,24,อุบลราชธานี,NP TOWER Hotel,738,2.2,2–5 km,highway
+24-702,24,อุบลราชธานี,Srisomthai Hotel,434,2.3,2–5 km,highway
+24-702,24,อุบลราชธานี,Patchy & PPraw Family,604,2.6,2–5 km,highway
+24-702,24,อุบลราชธานี,Sun smile(cafe & homestay),391,2.9,2–5 km,highway
+24-702,24,อุบลราชธานี,Bunk Ubon Hostel,505,3.0,2–5 km,highway
+24-702,24,อุบลราชธานี,พวงชมพูเฮ้าส์,467,3.1,2–5 km,highway
+32-101,32,บางปะอิน,Baan Busaya บ้านบุษยา,327,6.5,5–10 km,highway
+32-101,32,บางปะอิน,Suntomoon Residence By Sumo Ayutthaya อยุธยา,794,7.3,5–10 km,highway
+32-101,32,บางปะอิน,Daddy's homestay,679,8.7,5–10 km,highway
+32-101,32,บางปะอิน,จ้าวหอม บูทิก โฮเทล,794,9.7,5–10 km,highway
+32-101,32,บางปะอิน,Yimwhan Hostel & Cafe Ayutthaya,551,10.0,5–10 km,highway
+32-101,32,บางปะอิน,Subsopon,500,10.0,5–10 km,highway
+32-102,32,อยุธยา–นครหลวง,Rose Garden Hotel,467,2.3,2–5 km,highway
+32-102,32,อยุธยา–นครหลวง,ศรีกรุงดีลักซ์โฮเตล,463,2.9,2–5 km,highway
+32-102,32,อยุธยา–นครหลวง,The Station Hostel,412,3.2,2–5 km,highway
+32-102,32,อยุธยา–นครหลวง,JD hostel,514,3.2,2–5 km,highway
+32-102,32,อยุธยา–นครหลวง,สบาย สบาย เพลส อพาร์ทเม้นท์,467,3.4,2–5 km,highway
+32-102,32,อยุธยา–นครหลวง,Auntie House985,514,3.5,2–5 km,highway
+32-102,32,อยุธยา–นครหลวง,Baan Are Gong Riverside Homestay,425,3.6,2–5 km,highway
+32-102,32,อยุธยา–นครหลวง,Ban Heng,717,3.6,2–5 km,highway
+32-102,32,อยุธยา–นครหลวง,Tony's Place Ayutthaya,559,3.6,2–5 km,highway
+32-102,32,อยุธยา–นครหลวง,Chantana House Ayutthaya,551,3.7,2–5 km,highway
+32-102,32,อยุธยา–นครหลวง,Sunday Ayothaya Hotel,525,3.8,2–5 km,highway
+32-102,32,อยุธยา–นครหลวง,BRICKHOUSE Ayutthaya Guesthouse EST 1986,338,3.8,2–5 km,highway
+32-102,32,อยุธยา–นครหลวง,Ayutthaya Par pearn อยุธยาพาเพลิน,470,3.8,2–5 km,highway
+32-102,32,อยุธยา–นครหลวง,Your Home AYUTTHAYA,679,3.8,2–5 km,highway
+32-102,32,อยุธยา–นครหลวง,Ayutthaya Par Plearn Homestay อยุธยา พาเพลินold BJ Guesthouse,336,3.8,2–5 km,highway
+32-201,32,นครหลวง–อ่างทอง,Pun's Garden Home,790,6.6,5–10 km,highway
+32-201,32,นครหลวง–อ่างทอง,Bualuang Boutique Resort,598,6.7,5–10 km,highway
+32-201,32,นครหลวง–อ่างทอง,Bualuang HOTEL,425,8.2,5–10 km,highway
+32-201,32,นครหลวง–อ่างทอง,Blue House,598,8.4,5–10 km,highway
+32-201,32,นครหลวง–อ่างทอง,มาทาเลรีสอร์ท,608,9.0,5–10 km,highway
+32-202,32,ไชโย,Parida Resort,561,6.6,5–10 km,highway
+32-202,32,ไชโย,ไทยพราส,386,7.4,5–10 km,highway
+32-202,32,ไชโย,Blue House,598,8.8,5–10 km,highway
+32-202,32,ไชโย,Bualuang HOTEL,425,9.5,5–10 km,highway
+33-401,33,หินกอง,Paradise Inn and Dining,382,6.4,5–10 km,highway
+33-401,33,หินกอง,โรงแรมกู๊ดเรสซิเดนซ์ - Good Residence,505,7.6,5–10 km,highway
+33-501,33,บ้านคลองยาง,Poon Suk Hotel Kabin Buri,510,9.9,5–10 km,highway
+33-502,33,นครนายก,Field Town Apartment,637,1.4,≤2 km,highway
+33-502,33,นครนายก,Grandma's House,340,2.7,2–5 km,highway
+33-502,33,นครนายก,รุ่งรวีรีสอร์ท,588,4.8,2–5 km,highway
+33-502,33,นครนายก,รุ้งรวีรีสอร์ท4,588,4.8,2–5 km,highway
+33-502,33,นครนายก,รุ้งรวี รีสอร์ท2,672,4.9,2–5 km,highway
+33-502,33,นครนายก,รุ้งรวีรีสอร์ท,588,4.9,2–5 km,highway
+33-502,33,นครนายก,Solara เฮ้าส์,672,5.0,2–5 km,highway
+33-502,33,นครนายก,แอทมายเฮ้าส์,715,5.0,2–5 km,highway
+33-502,33,นครนายก,Khaohom Resort,722,5.7,5–10 km,highway
+33-502,33,นครนายก,Nakhonyok Homestay,528,6.0,5–10 km,highway
+33-502,33,นครนายก,ท่าเดื่อแคมป์ปิ้ง กางเต้นท์เล่นน้ำ ริมแม่น้ำนครนายก,673,7.3,5–10 km,highway
+33-502,33,นครนายก,โรงแรมบ้านสวนบางภูมิ,715,8.5,5–10 km,highway
+33-502,33,นครนายก,เอส ที โฮมสเตย์ นครนายก,555,9.6,5–10 km,highway
+33-702,33,อรัญประเทศ,La Villa Boutique hotel,612,1.0,≤2 km,highway
+33-702,33,อรัญประเทศ,Chaisuk Bungalow,340,1.8,≤2 km,highway
+33-702,33,อรัญประเทศ,Station ONE Hotel - Aranyaprateth,701,2.9,2–5 km,highway
+33-702,33,อรัญประเทศ,Hey Sunday Home,654,4.0,2–5 km,highway
+33-702,33,อรัญประเทศ,norndee hostel,547,5.3,5–10 km,highway
+33-702,33,อรัญประเทศ,IndoChina Guesthouse,505,5.7,5–10 km,highway
+34-101,34,บางนา,TAKKA Hotel - Bangna,788,0.4,≤2 km,highway
+34-101,34,บางนา,Gfeel Hostel,345,0.7,≤2 km,highway
+34-101,34,บางนา,Terlyn Hostel & Cafe,711,0.8,≤2 km,highway
+34-101,34,บางนา,BKK TEAK Hostel,462,0.9,≤2 km,highway
+34-101,34,บางนา,Udomsuk Inn & Cafe - BTS Udomsuk,560,0.9,≤2 km,highway
+34-101,34,บางนา,Kurina Hotel,776,1.2,≤2 km,highway
+34-101,34,บางนา,Sunshiny-BB Hostel near Punnavithi BTS station,551,1.3,≤2 km,highway
+34-101,34,บางนา,PURE Residence Backpack BTS ปุณณวิถี,523,1.6,≤2 km,highway
+34-101,34,บางนา,Takka Hotel - Bearing,662,1.6,≤2 km,highway
+34-101,34,บางนา,Sairin 1 bedroom BTS Udomsuk,580,1.9,≤2 km,highway
+34-101,34,บางนา,Xin Hostel Wachiratham 21,668,1.9,≤2 km,highway
+34-101,34,บางนา,ONEWAY Guest House BKK,383,2.1,2–5 km,highway
+34-101,34,บางนา,Bossa House Hostel & Cafe,467,2.1,2–5 km,highway
+34-101,34,บางนา,"Bearing BTS,Netflix, internet,peaceful,cleaning",589,2.1,2–5 km,highway
+34-101,34,บางนา,Chan Cha La 99 Hostel,501,2.6,2–5 km,highway
+34-102,34,บางพลี (สุวรรณภูมิ),Toucan Garden,424,1.5,≤2 km,highway
+34-102,34,บางพลี (สุวรรณภูมิ),Toucan Bed and Cafe,360,1.5,≤2 km,highway
+34-102,34,บางพลี (สุวรรณภูมิ),Freesia Bangphi Guest House,271,1.7,≤2 km,highway
+34-102,34,บางพลี (สุวรรณภูมิ),Rest Suvarnabhumi,609,2.6,2–5 km,highway
+34-102,34,บางพลี (สุวรรณภูมิ),Dream&Go Suvarnabhumi,505,3.8,2–5 km,highway
+34-102,34,บางพลี (สุวรรณภูมิ),Dream&Go Suvarnabhumi Airport,500,3.8,2–5 km,highway
+34-102,34,บางพลี (สุวรรณภูมิ),SS GUESTHOUSE,395,4.3,2–5 km,highway
+34-102,34,บางพลี (สุวรรณภูมิ),The Elegant Bangna Suvarnabhumi,749,4.4,2–5 km,highway
+34-102,34,บางพลี (สุวรรณภูมิ),Baan Chay Namm Resort,748,4.5,2–5 km,highway
+34-102,34,บางพลี (สุวรรณภูมิ),V Suvarnabhumi วี สุวรรณภูมิ,718,4.8,2–5 km,highway
+34-102,34,บางพลี (สุวรรณภูมิ),Hugg daily airport 5,568,5.2,5–10 km,highway
+34-102,34,บางพลี (สุวรรณภูมิ),Hugg daily airport 1,589,5.3,5–10 km,highway
+34-102,34,บางพลี (สุวรรณภูมิ),K&K Apartment,517,5.5,5–10 km,highway
+34-102,34,บางพลี (สุวรรณภูมิ),BA Apartment FlowSuvarnabhumi,568,6.9,5–10 km,highway
+34-102,34,บางพลี (สุวรรณภูมิ),Comfy hotels คอมฟี่โฮเทล Soi Kingkeaw31ก Alley ซอยกิ่งแก้ว31ก,673,7.5,5–10 km,highway
+34-200,34,บางวัว,97 Merryland Apartments & Hotel,729,1.4,≤2 km,highway
+34-300,34,บางปะกง–หนองไม้แดง,N24 Chonburi,635,2.4,2–5 km,highway
+34-300,34,บางปะกง–หนองไม้แดง,Patoey House,542,3.4,2–5 km,highway
+34-300,34,บางปะกง–หนองไม้แดง,Wanan Cafe & Boutique Hotel,757,3.9,2–5 km,highway
+34-300,34,บางปะกง–หนองไม้แดง,โรงแรมในฝัน,663,4.1,2–5 km,highway
+34-300,34,บางปะกง–หนองไม้แดง,โรงแรมทูมอร์โรว์แลนด์ อมตะนคร,757,4.4,2–5 km,highway
+34-300,34,บางปะกง–หนองไม้แดง,โรงแรมทูมอร์โรว์แลนด์ อมตะนคร,757,4.4,2–5 km,highway
+34-300,34,บางปะกง–หนองไม้แดง,Ananya Residence Amata City Hotel,589,4.8,2–5 km,highway
+34-300,34,บางปะกง–หนองไม้แดง,HOP INN Chonburi Amata,729,4.9,2–5 km,highway
+34-300,34,บางปะกง–หนองไม้แดง,Buorana,602,5.8,5–10 km,highway
+34-300,34,บางปะกง–หนองไม้แดง,Thani Residence,595,7.4,5–10 km,highway
+34-300,34,บางปะกง–หนองไม้แดง,D5 Hotel สาขา หนองตำลึง,581,7.5,5–10 km,highway
+34-300,34,บางปะกง–หนองไม้แดง,Mybed Chonburi,576,7.8,5–10 km,highway
+34-300,34,บางปะกง–หนองไม้แดง,D5 Gold สาขา หนองกะขะ,749,9.2,5–10 km,highway
+34-300,34,บางปะกง–หนองไม้แดง,นั่งเล่นกันไหม รีสอร์ท SHA Plus,793,9.5,5–10 km,highway
+34-300,34,บางปะกง–หนองไม้แดง,พาราไดซ์อินน์ ชลบุรี,645,9.5,5–10 km,highway
+35-100,35,ดาวคะนอง,Anurak Guesthouse,589,1.4,≤2 km,highway
+35-100,35,ดาวคะนอง,Prompt Inn Chareonkrung - พร้อมอินน์ เจริญกรุง,340,1.5,≤2 km,highway
+35-100,35,ดาวคะนอง,Little Local House,606,1.5,≤2 km,highway
+35-100,35,ดาวคะนอง,Noc House,462,1.7,≤2 km,highway
+35-100,35,ดาวคะนอง,Kaya Place,642,2.2,2–5 km,highway
+35-100,35,ดาวคะนอง,GO INN Asiatique Bangkok โก อินน์ เอเชียทีค เจริญกรุง,325,2.2,2–5 km,highway
+35-100,35,ดาวคะนอง,Oh My Nap Asiatique - Riverfront โอ มาย แนป ใกล้เอเชียทีค 400 เมตร,461,2.2,2–5 km,highway
+35-100,35,ดาวคะนอง,BKK Rama3 Guest House,336,2.4,2–5 km,highway
+35-100,35,ดาวคะนอง,arakhouse อารักษ์เฮ้าส์,628,2.9,2–5 km,highway
+35-100,35,ดาวคะนอง,GO INN Bangkok Rama3 โกอินน์ พระราม3,463,3.1,2–5 km,highway
+35-100,35,ดาวคะนอง,GO INN Rama3 Bangkok - โกอินน์ พระราม 3,443,3.1,2–5 km,highway
+35-100,35,ดาวคะนอง,MEEMAW'S House Hostel,714,3.4,2–5 km,highway
+35-100,35,ดาวคะนอง,89 Bed & Studio Hostel,521,3.4,2–5 km,highway
+35-100,35,ดาวคะนอง,CozyTwin Bed วิวระเบียง เจริญนคร,721,3.4,2–5 km,highway
+35-100,35,ดาวคะนอง,Krung Tone Hostel,566,3.5,2–5 km,highway
+35-201,35,แสมดำ,W residence สมุทรสาคร,675,4.8,2–5 km,highway
+35-201,35,แสมดำ,Grand Inter Hotel,722,4.9,2–5 km,highway
+35-201,35,แสมดำ,บ้านโอโซน สมุทรสาคร,645,6.3,5–10 km,highway
+35-201,35,แสมดำ,58 Ville Resort,738,8.8,5–10 km,highway
+35-201,35,แสมดำ,P29,557,9.6,5–10 km,highway
+35-201,35,แสมดำ,Latin Garden Hotel,578,9.7,5–10 km,highway
+35-201,35,แสมดำ,My space69,794,9.7,5–10 km,highway
+35-201,35,แสมดำ,Eurna Resort Hotel,652,9.8,5–10 km,highway
+35-202,35,นาโคก,Baan Sang Dao Resort,545,4.8,2–5 km,highway
+35-301,35,นาโคก–แพรกหนามแดง,Wisdom Hotel,646,0.6,≤2 km,highway
+35-301,35,นาโคก–แพรกหนามแดง,Alongkorn hotel by SB,594,1.3,≤2 km,highway
+35-301,35,นาโคก–แพรกหนามแดง,Royal Land Mae Klong Hotel,513,1.3,≤2 km,highway
+35-301,35,นาโคก–แพรกหนามแดง,อัมพวารี Amphawaree Hotel,702,3.0,2–5 km,highway
+35-301,35,นาโคก–แพรกหนามแดง,บ้านสุขใจ อัมพวา,592,3.2,2–5 km,highway
+35-301,35,นาโคก–แพรกหนามแดง,Ban Khun Rin Homestay,631,5.8,5–10 km,highway
+35-301,35,นาโคก–แพรกหนามแดง,Ruenthai Ampawa,757,5.8,5–10 km,highway
+35-301,35,นาโคก–แพรกหนามแดง,Ban Mae Arom,595,6.1,5–10 km,highway
+35-301,35,นาโคก–แพรกหนามแดง,Ruean Mai Chai Khlong,653,6.1,5–10 km,highway
+35-301,35,นาโคก–แพรกหนามแดง,Aple Homestay,701,6.1,5–10 km,highway
+35-301,35,นาโคก–แพรกหนามแดง,Baan Kitsada,701,6.5,5–10 km,highway
+35-301,35,นาโคก–แพรกหนามแดง,Baan Benjathip,588,6.5,5–10 km,highway
+35-301,35,นาโคก–แพรกหนามแดง,Meephawa Resort,621,7.3,5–10 km,highway
+35-301,35,นาโคก–แพรกหนามแดง,บ้าน กัญณภัทร โฮมสเตย์,675,8.5,5–10 km,highway
+35-301,35,นาโคก–แพรกหนามแดง,บ้านกรนรา Baan Kornnara,588,8.5,5–10 km,highway
+35-302,35,วังมะนาว,SB Inn,552,4.0,2–5 km,highway
+35-302,35,วังมะนาว,Pophouse,636,4.8,2–5 km,highway
+35-302,35,วังมะนาว,โรงแรมบ้านนก,545,5.3,5–10 km,highway
+35-302,35,วังมะนาว,Banana Hotel,631,7.8,5–10 km,highway
+35-302,35,วังมะนาว,Min Land Resort,748,8.3,5–10 km,highway
+36-101,36,กระทิงลาย,Kunaeng ครัวกันเอง รีสอร์ท,448,0.9,≤2 km,highway
+36-101,36,กระทิงลาย,Lanna Hotel by Kasalong Resort and Spa Pattaya,552,3.2,2–5 km,highway
+36-101,36,กระทิงลาย,Finn-Dee Resort,754,4.7,2–5 km,highway
+36-101,36,กระทิงลาย,รสริน ซีวิว,403,4.7,2–5 km,highway
+36-101,36,กระทิงลาย,Ampan Resort & Apartment,698,4.9,2–5 km,highway
+36-101,36,กระทิงลาย,海边小屋,435,4.9,2–5 km,highway
+36-101,36,กระทิงลาย,Lamour Guesthouse ละเมอ เกสต์เฮาส์ R-02,757,5.1,5–10 km,highway
+36-101,36,กระทิงลาย,Lamour Guesthouse ละเมอเกสต์เฮ้าส์ room 03,589,5.1,5–10 km,highway
+36-101,36,กระทิงลาย,Eastiny Resort & Spa,591,5.7,5–10 km,highway
+36-101,36,กระทิงลาย,Green Paradise,488,5.8,5–10 km,highway
+36-101,36,กระทิงลาย,CK Resort Pattaya,637,5.9,5–10 km,highway
+36-101,36,กระทิงลาย,Benwadee Resort Pattaya,748,6.1,5–10 km,highway
+36-101,36,กระทิงลาย,Dday Luxury Pattaya by D-Eco Wellness Centre,694,6.2,5–10 km,highway
+36-101,36,กระทิงลาย,D Eco Wellness Center,673,6.2,5–10 km,highway
+36-101,36,กระทิงลาย,Manditel North Pattaya,771,6.3,5–10 km,highway
+36-102,36,บ้านโป่ง,Benwadee Resort Pattaya,748,2.7,2–5 km,highway
+36-102,36,บ้านโป่ง,Kunaeng ครัวกันเอง รีสอร์ท,448,3.8,2–5 km,highway
+36-102,36,บ้านโป่ง,Finn-Dee Resort,754,4.3,2–5 km,highway
+36-102,36,บ้านโป่ง,Ampan Resort & Apartment,698,5.3,5–10 km,highway
+36-102,36,บ้านโป่ง,Serene Resort Pattaya,598,5.9,5–10 km,highway
+36-102,36,บ้านโป่ง,Nubdao Resort&Restaurant,761,6.3,5–10 km,highway
+36-102,36,บ้านโป่ง,Lanna Hotel by Kasalong Resort and Spa Pattaya,552,6.5,5–10 km,highway
+36-102,36,บ้านโป่ง,Eastiny Resort & Spa,591,6.8,5–10 km,highway
+36-102,36,บ้านโป่ง,CK Resort Pattaya,637,7.4,5–10 km,highway
+36-102,36,บ้านโป่ง,รสริน ซีวิว,403,7.7,5–10 km,highway
+36-102,36,บ้านโป่ง,海边小屋,435,7.7,5–10 km,highway
+36-102,36,บ้านโป่ง,Naeem House Pattaya,613,8.2,5–10 km,highway
+36-102,36,บ้านโป่ง,Lamour Guesthouse ละเมอเกสต์เฮ้าส์ room 03,589,8.2,5–10 km,highway
+36-102,36,บ้านโป่ง,Lamour Guesthouse ละเมอ เกสต์เฮาส์ R-02,757,8.2,5–10 km,highway
+36-102,36,บ้านโป่ง,JP Villa Pattaya,474,8.7,5–10 km,highway
+36-202,36,มาบข่า,The Room Relax,536,1.5,≤2 km,highway
+36-202,36,มาบข่า,Baanpuklertsuk3,589,4.6,2–5 km,highway
+36-202,36,มาบข่า,Baanpuklertsuk,547,4.6,2–5 km,highway
+36-202,36,มาบข่า,Rayong Valley Resort,472,7.1,5–10 km,highway
+36-202,36,มาบข่า,วิวธารารีสอร์ท (ViewThara Resort),578,7.7,5–10 km,highway
+36-202,36,มาบข่า,Secret Hotel,542,7.8,5–10 km,highway
+36-202,36,มาบข่า,ROJI Resort,547,9.0,5–10 km,highway
+36-202,36,มาบข่า,Softbox Hostel,708,9.6,5–10 km,highway
+36-202,36,มาบข่า,วินน์รีสอร์ท,701,9.8,5–10 km,highway
+36-202,36,มาบข่า,Suan Palm Garden View,425,10.0,5–10 km,highway
+36-203,36,ทับมา,Wan Resort Rayong,442,0.7,≤2 km,highway
+36-203,36,ทับมา,ROJI Resort,547,1.2,≤2 km,highway
+36-203,36,ทับมา,Softbox Hostel,708,2.2,2–5 km,highway
+36-203,36,ทับมา,Rayong Valley Resort,472,2.8,2–5 km,highway
+36-203,36,ทับมา,BaanHim,459,3.0,2–5 km,highway
+36-203,36,ทับมา,Chomdao Hotel,449,3.3,2–5 km,highway
+36-203,36,ทับมา,HOP INN Rayong Sukhumvit Road,673,3.4,2–5 km,highway
+36-203,36,ทับมา,HOP INN Rayong,636,3.5,2–5 km,highway
+36-203,36,ทับมา,East Inn 15 Rayong - SHA Certified,493,3.8,2–5 km,highway
+36-203,36,ทับมา,Rayonghouse Resort,505,3.9,2–5 km,highway
+36-203,36,ทับมา,Hub de Leaf @ Rayong,602,3.9,2–5 km,highway
+36-203,36,ทับมา,DD Residence Rayong,462,4.0,2–5 km,highway
+36-203,36,ทับมา,Moo Yim Resort,501,4.0,2–5 km,highway
+36-203,36,ทับมา,Suan Palm Garden View,425,4.4,2–5 km,highway
+36-203,36,ทับมา,Wiangwalee Hotel,552,4.5,2–5 km,highway
+37-100,37,ชะอำ,Sky&Sea Guesthouse Cha am TK,463,3.6,2–5 km,highway
+37-100,37,ชะอำ,Farm Madame Fleur,607,3.8,2–5 km,highway
+37-100,37,ชะอำ,Cha Am Perfect,425,4.4,2–5 km,highway
+37-100,37,ชะอำ,TaKaYai GuestHouse,524,4.4,2–5 km,highway
+37-100,37,ชะอำ,Cha-Am Fish Star Hotel,482,4.4,2–5 km,highway
+37-100,37,ชะอำ,The cabana guesthouse,653,4.5,2–5 km,highway
+37-100,37,ชะอำ,You And Me Guesthouse,654,4.5,2–5 km,highway
+37-100,37,ชะอำ,THE BEACH INN Cha-Am,561,4.5,2–5 km,highway
+37-100,37,ชะอำ,CHA AM MY HOUSE Resort,488,4.5,2–5 km,highway
+37-100,37,ชะอำ,THE BEACH CHA AM Residence,477,4.5,2–5 km,highway
+37-100,37,ชะอำ,THE BEACH CHA AM Guest House,480,4.5,2–5 km,highway
+37-100,37,ชะอำ,Chaytalay Station Hotel,589,4.5,2–5 km,highway
+37-100,37,ชะอำ,N.P.Place Resort&Hotel,757,4.5,2–5 km,highway
+37-100,37,ชะอำ,GOLDEN GUESTHOUSE by The Beach Cha Am,525,4.5,2–5 km,highway
+37-100,37,ชะอำ,Ban Por Fai,561,4.5,2–5 km,highway
+41-102,41,เขาบ่อ–ท่าทอง,Chaikao mountain view retreat-bamboo 1,421,4.0,2–5 km,highway
+41-102,41,เขาบ่อ–ท่าทอง,Sunflora Resort Chumphon,748,8.4,5–10 km,highway
+41-202,41,เกาะมุกข์–ควนรา (ไชยา),ชมจันทร์รีสอร์ท ไชยา Chomjan resort,613,1.2,≤2 km,highway
+41-202,41,เกาะมุกข์–ควนรา (ไชยา),Maruay,167,2.3,2–5 km,highway
+41-202,41,เกาะมุกข์–ควนรา (ไชยา),Phum Riang House,647,9.9,5–10 km,highway
+41-400,41,เวียงสระ,Anchalee Garden Hotel,457,2.5,2–5 km,highway
+41-503,41,ร่อนพิบูลย์–ไม้เสียบ,boomresort,547,1.7,≤2 km,highway
+41-503,41,ร่อนพิบูลย์–ไม้เสียบ,Phooree Boutique Hotel,542,9.8,5–10 km,highway
+42-100,42,คลองแงะ,Pamy Yoga Studio,794,9.0,5–10 km,highway
+42-202,42,ดอนยาง,Bakkahland Farm and Resort,463,9.2,5–10 km,highway
+43-101,43,หาดใหญ่,Homey Hostel Hatyai,611,4.0,2–5 km,highway
+43-101,43,หาดใหญ่,Gift house # 5 minutes to Central festival,394,4.3,2–5 km,highway
+43-101,43,หาดใหญ่,MellowDee Female Hostel เมลโลดี โฮสเทลหญิง 女旅社,673,4.3,2–5 km,highway
+43-101,43,หาดใหญ่,"Near Central Festival Hat Yai,5-8 people",667,4.3,2–5 km,highway
+43-101,43,หาดใหญ่,AT Apartment,577,4.4,2–5 km,highway
+43-101,43,หาดใหญ่,Baan Napa,669,4.4,2–5 km,highway
+43-101,43,หาดใหญ่,BAAN64 Hostel,589,4.5,2–5 km,highway
+43-101,43,หาดใหญ่,Papaya Stay,672,4.6,2–5 km,highway
+43-101,43,หาดใหญ่,Hybrit hostel,668,4.6,2–5 km,highway
+43-101,43,หาดใหญ่,Central View Hostel,596,4.6,2–5 km,highway
+43-101,43,หาดใหญ่,SridaHouse#Near Central Festival Hatyai,556,4.6,2–5 km,highway
+43-101,43,หาดใหญ่,SridaHouse#Near Central Festival Hat Yai,748,4.6,2–5 km,highway
+43-101,43,หาดใหญ่,Apartment near Central Festival Hatyai,590,4.6,2–5 km,highway
+43-101,43,หาดใหญ่,Udee Living Place,731,4.8,2–5 km,highway
+43-101,43,หาดใหญ่,Thongmanee Hotel,675,4.9,2–5 km,highway
+43-200,43,จะนะ,เดอะ รูม บูทีคโฮเทล,505,1.3,≤2 km,highway
+43-301,43,มะพร้าวต้นเดียว,Bakkahland Farm and Resort,463,5.5,5–10 km,highway
+43-301,43,มะพร้าวต้นเดียว,โรงแรมริเวอร์ ซิตี้ ปัตตานี,611,7.3,5–10 km,highway
+43-301,43,มะพร้าวต้นเดียว,Datok homestay,514,9.0,5–10 km,highway
+44-100,44,อ่าวลึก–บางสวรรค์,By The Dam Farmstay,547,6.3,5–10 km,highway
+44-302,44,ท่าเรือ–หินโงก,Bali Boutique Hotel Suratthani,410,8.6,5–10 km,highway
+44-302,44,ท่าเรือ–หินโงก,บ้านร่มไทร Ban Romsai Nadoem Suratthani,519,8.9,5–10 km,highway
+375-p1,375,บ้านสามแก้ว,Busaya Resort & Cuisine,684,9.7,5–10 km,secondary
+375-p3,375,บ้านแพ้ว,ห้องพัก168,504,8.9,5–10 km,secondary
+315-p3,315,บ้านโพธิ์,พรเจริญเพลส,701,8.6,5–10 km,secondary
+315-p3,315,บ้านโพธิ์,โรงแรมโกลเด้นอินน์,514,9.0,5–10 km,secondary
+315-p3,315,บ้านโพธิ์,Wellgrow Hotel CHACHOENGSAO Wellgrow service house,675,9.1,5–10 km,secondary
+315-p3,315,บ้านโพธิ์,The Wish Hotel,491,9.7,5–10 km,secondary
+315-p3,315,บ้านโพธิ์,Kesorn Boutique Residence at 8 Riew,484,9.8,5–10 km,secondary
+344-p1,344,บ้านหนองชาก,เจิดจรัสรีสอร์ทโรงแรม24ชม,411,6.1,5–10 km,secondary
+331-p1,331,เขาไม้แก้ว,No1 Resort&Residence Huaiyai,553,6.4,5–10 km,secondary
+331-p1,331,เขาไม้แก้ว,Nubdao Resort&Restaurant,761,7.2,5–10 km,secondary
+331-p1,331,เขาไม้แก้ว,Benwadee Resort Pattaya,748,7.7,5–10 km,secondary
+331-p1,331,เขาไม้แก้ว,Punpoon resort,729,8.0,5–10 km,secondary
+331-p1,331,เขาไม้แก้ว,Serene Resort Pattaya,598,8.2,5–10 km,secondary
+331-p1,331,เขาไม้แก้ว,The Let's Chill Resort Pattaya,639,8.8,5–10 km,secondary
+402-p1,402,บ้านท่านุ่น,Phurafa Resort,671,6.6,5–10 km,secondary
+402-p1,402,บ้านท่านุ่น,Cosy house with patio,792,7.0,5–10 km,secondary
+375-p2,375,ธรรมศาลา,Feel like home แบบบ้านบ้าน,748,4.4,2–5 km,secondary
+375-p2,375,ธรรมศาลา,JB Place,561,8.1,5–10 km,secondary
+375-p2,375,ธรรมศาลา,Bananaleaf Wedding Cafe & Resort,534,8.7,5–10 km,secondary
+375-p2,375,ธรรมศาลา,Chompoo Inn,492,9.5,5–10 km,secondary
+121-p1,121,สันผีเสื้อ,22 Hostel,618,3.2,2–5 km,secondary
+121-p1,121,สันผีเสื้อ,Baan Orawee Boutique Hotel,703,6.3,5–10 km,secondary
+121-p1,121,สันผีเสื้อ,ADA House CNX,675,6.9,5–10 km,secondary
+121-p1,121,สันผีเสื้อ,CG BNB HOTEL,774,6.9,5–10 km,secondary
+121-p1,121,สันผีเสื้อ,Allred Hostel Chiangmai,722,7.1,5–10 km,secondary
+121-p1,121,สันผีเสื้อ,Restart47,458,7.6,5–10 km,secondary
+121-p1,121,สันผีเสื้อ,Me U Hostel,787,7.7,5–10 km,secondary
+121-p1,121,สันผีเสื้อ,โอบสุขโฮมสเตย์ Oob-Suk,794,8.5,5–10 km,secondary
+121-p1,121,สันผีเสื้อ,บ้านอังกาบ Aungkab homestay,514,9.1,5–10 km,secondary
+121-p1,121,สันผีเสื้อ,Insight Hostel,793,9.4,5–10 km,secondary
+121-p1,121,สันผีเสื้อ,Dutch Guesthouse Chiang Mai,424,9.7,5–10 km,secondary
+121-p1,121,สันผีเสื้อ,Thai organic herb home & made,417,9.8,5–10 km,secondary
+121-p1,121,สันผีเสื้อ,LM Hostel,759,9.8,5–10 km,secondary
+121-p1,121,สันผีเสื้อ,Chanaporn Place,596,10.0,5–10 km,secondary
+121-p1,121,สันผีเสื้อ,Highway Hotel,548,10.0,5–10 km,secondary
+126-p2,126,หมู่บ้านบุณฑริก,Garden Corner Resort & Hotel,513,3.2,2–5 km,secondary
+126-p2,126,หมู่บ้านบุณฑริก,Boonme Heritage,596,5.5,5–10 km,secondary
+126-p2,126,หมู่บ้านบุณฑริก,ดิ อัยรารินทร์ รีสอร์ท,756,6.0,5–10 km,secondary
+126-p2,126,หมู่บ้านบุณฑริก,Akchanok Homestay - Nature Retreat,511,8.0,5–10 km,secondary
+126-p2,126,หมู่บ้านบุณฑริก,Karaboon Wellness,519,8.9,5–10 km,secondary
+126-p2,126,หมู่บ้านบุณฑริก,โรงแรมเอเซีย,393,9.9,5–10 km,secondary
+126-p2,126,หมู่บ้านบุณฑริก,Pailyn Hotel Phitsanulok,658,9.9,5–10 km,secondary
+126-p2,126,หมู่บ้านบุณฑริก,SLEEPLESS ROOM Phitsanulok,542,10.0,5–10 km,secondary
+121-p2,121,บ้านป่าจี้,Insight Hostel,793,3.6,2–5 km,secondary
+121-p2,121,บ้านป่าจี้,THE BEST ONE CHIANG MAI,751,3.9,2–5 km,secondary
+121-p2,121,บ้านป่าจี้,ADA House CNX,675,6.1,5–10 km,secondary
+121-p2,121,บ้านป่าจี้,Trekker Camp,625,6.1,5–10 km,secondary
+121-p2,121,บ้านป่าจี้,Me U Hostel,787,6.3,5–10 km,secondary
+121-p2,121,บ้านป่าจี้,Dutch Guesthouse Chiang Mai,424,7.0,5–10 km,secondary
+121-p2,121,บ้านป่าจี้,Lang Suan Resort Saraphi,792,7.7,5–10 km,secondary
+121-p2,121,บ้านป่าจี้,LM Hostel,759,8.3,5–10 km,secondary
+121-p2,121,บ้านป่าจี้,Allred Hostel Chiangmai,722,9.4,5–10 km,secondary
+121-p2,121,บ้านป่าจี้,บ้านกูรูรีสอร์ท,787,9.4,5–10 km,secondary
+121-p2,121,บ้านป่าจี้,Highway Hotel,548,9.6,5–10 km,secondary
+121-p2,121,บ้านป่าจี้,Chanaporn Place,596,9.9,5–10 km,secondary
+121-p2,121,บ้านป่าจี้,22 Hostel,618,10.0,5–10 km,secondary
+315-p2,315,วัดโบสถ์,Wiang Kham Resort,701,1.9,≤2 km,secondary
+315-p2,315,วัดโบสถ์,กรีนเกสท์เฮ้าส์ พนัสนิคม,654,2.4,2–5 km,secondary
+315-p2,315,วัดโบสถ์,V at Panus,701,3.0,2–5 km,secondary
+315-p2,315,วัดโบสถ์,โรงแรมเรือนคุณเล็ก กานต์สินี,774,5.0,2–5 km,secondary
+315-p2,315,วัดโบสถ์,i24 Residence - Amata Phase 10,659,7.9,5–10 km,secondary
+315-p2,315,วัดโบสถ์,D5 Hotel สาขา มาบโป่ง,535,10.0,5–10 km,secondary
+362-p3,362,กุดนกเปล้า,MP Inn,467,4.6,2–5 km,secondary
+362-p3,362,กุดนกเปล้า,โรงแรมเมืองเพรียวอินน์ Mueang Phriao Inn Hotel,551,4.6,2–5 km,secondary
+362-p3,362,กุดนกเปล้า,ควีนเพลส สระบุรี Queenplace Saraburi,561,5.0,2–5 km,secondary
+362-p3,362,กุดนกเปล้า,โรงแรมเรือนขุมทรัพย์,463,5.5,5–10 km,secondary
+362-p3,362,กุดนกเปล้า,HOP INN Saraburi,664,6.3,5–10 km,secondary
+362-p3,362,กุดนกเปล้า,Grand Pruksa Siri Apartment,552,6.5,5–10 km,secondary
+362-p3,362,กุดนกเปล้า,At Home สระบุรี,421,6.8,5–10 km,secondary
+362-p3,362,กุดนกเปล้า,บ้านพระจันทร์ รีสอร์ท,701,8.0,5–10 km,secondary
+362-p3,362,กุดนกเปล้า,Wai zin,39,8.4,5–10 km,secondary
+362-p3,362,กุดนกเปล้า,changrojresort,557,9.3,5–10 km,secondary
+121-p3,121,บ้านยวม,กินๆนอนๆ ห้องพักราคาประหยัดสุดๆ only sleep good dream,454,2.6,2–5 km,secondary
+121-p3,121,บ้านยวม,SDDP Apartment,533,3.2,2–5 km,secondary
+121-p3,121,บ้านยวม,SDDP apt,533,3.2,2–5 km,secondary
+121-p3,121,บ้านยวม,ฝ้ายคำ บูธีค เชียงใหม่,630,3.5,2–5 km,secondary
+121-p3,121,บ้านยวม,Chanaporn Place,596,4.9,2–5 km,secondary
+121-p3,121,บ้านยวม,Highway Hotel,548,4.9,2–5 km,secondary
+121-p3,121,บ้านยวม,LM Hostel,759,5.4,5–10 km,secondary
+121-p3,121,บ้านยวม,Trekker Camp,625,5.9,5–10 km,secondary
+121-p3,121,บ้านยวม,Dutch Guesthouse Chiang Mai,424,6.3,5–10 km,secondary
+121-p3,121,บ้านยวม,Herritage Piman since 1940,625,7.4,5–10 km,secondary
+121-p3,121,บ้านยวม,Allred Hostel Chiangmai,722,7.8,5–10 km,secondary
+121-p3,121,บ้านยวม,Lang Suan Resort Saraphi,792,8.0,5–10 km,secondary
+121-p3,121,บ้านยวม,Buakiang Countryside Lodge,667,8.3,5–10 km,secondary
+121-p3,121,บ้านยวม,THE BEST ONE CHIANG MAI,751,8.3,5–10 km,secondary
+121-p3,121,บ้านยวม,CG BNB HOTEL,774,8.6,5–10 km,secondary
+126-p1,126,วัดแสงดาว,Baan Baan Cozy Hostel,439,4.5,2–5 km,secondary
+126-p1,126,วัดแสงดาว,Nap Corner hostel,598,4.9,2–5 km,secondary
+126-p1,126,วัดแสงดาว,Kraisaeng Place,649,5.0,2–5 km,secondary
+126-p1,126,วัดแสงดาว,Karma Home Hostel,409,5.0,2–5 km,secondary
+126-p1,126,วัดแสงดาว,โรงแรมโกลเด้นแกรนด์ พิษณุโลก Golden Grand Hotel,561,5.1,5–10 km,secondary
+126-p1,126,วัดแสงดาว,Pailyn Hotel Phitsanulok,658,5.2,5–10 km,secondary
+126-p1,126,วัดแสงดาว,The Prince Hotel,380,5.3,5–10 km,secondary
+126-p1,126,วัดแสงดาว,ทองธิดาอพาร์ทเม้นท์,333,5.3,5–10 km,secondary
+126-p1,126,วัดแสงดาว,Phoonsab Hostel,353,5.5,5–10 km,secondary
+126-p1,126,วัดแสงดาว,เพิ่มพูนแมนชั่น พิษณุโลก Phoempun Mansion,403,5.6,5–10 km,secondary
+126-p1,126,วัดแสงดาว,โรงแรมเอเซีย,393,5.8,5–10 km,secondary
+126-p1,126,วัดแสงดาว,Rattana Park Hotel,653,6.0,5–10 km,secondary
+126-p1,126,วัดแสงดาว,AVA Hotel,423,6.1,5–10 km,secondary
+126-p1,126,วัดแสงดาว,Casa Holiday Hotel SHA,541,6.3,5–10 km,secondary
+126-p1,126,วัดแสงดาว,Superkids Resort,433,6.9,5–10 km,secondary
+126-p3,126,บ้านคลองเมือง,วังอินธารา รีสอร์ท (Wangintara Resort),467,2.7,2–5 km,secondary
+126-p3,126,บ้านคลองเมือง,กอล์ฟ&กิ๊ฟโฮม,214,3.9,2–5 km,secondary
+126-p3,126,บ้านคลองเมือง,Baan Sanpoom,470,4.1,2–5 km,secondary
+126-p3,126,บ้านคลองเมือง,Baan Duangkamol,467,4.7,2–5 km,secondary
+126-p3,126,บ้านคลองเมือง,Superkids Resort,433,5.0,2–5 km,secondary
+126-p3,126,บ้านคลองเมือง,Casa Holiday Hotel SHA,541,5.7,5–10 km,secondary
+126-p3,126,บ้านคลองเมือง,AVA Hotel,423,5.9,5–10 km,secondary
+126-p3,126,บ้านคลองเมือง,Rattana Park Hotel,653,6.0,5–10 km,secondary
+126-p3,126,บ้านคลองเมือง,SLEEPLESS ROOM Phitsanulok,542,6.0,5–10 km,secondary
+126-p3,126,บ้านคลองเมือง,Karaboon Wellness,519,6.0,5–10 km,secondary
+126-p3,126,บ้านคลองเมือง,เพิ่มพูนแมนชั่น พิษณุโลก Phoempun Mansion,403,6.5,5–10 km,secondary
+126-p3,126,บ้านคลองเมือง,Phoonsab Hostel,353,6.5,5–10 km,secondary
+126-p3,126,บ้านคลองเมือง,ทองธิดาอพาร์ทเม้นท์,333,6.8,5–10 km,secondary
+126-p3,126,บ้านคลองเมือง,โรงแรมเอเซีย,393,7.2,5–10 km,secondary
+126-p3,126,บ้านคลองเมือง,โรงแรมโกลเด้นแกรนด์ พิษณุโลก Golden Grand Hotel,561,7.4,5–10 km,secondary
+315-p1,315,ดอนหัวฬ่อ,HOP INN Chonburi Amata,729,1.1,≤2 km,secondary
+315-p1,315,ดอนหัวฬ่อ,Ananya Residence Amata City Hotel,615,1.5,≤2 km,secondary
+315-p1,315,ดอนหัวฬ่อ,D5 Hotel สาขา หนองตำลึง,581,1.9,≤2 km,secondary
+315-p1,315,ดอนหัวฬ่อ,โรงแรมในฝัน,663,2.3,2–5 km,secondary
+315-p1,315,ดอนหัวฬ่อ,Wanan Cafe & Boutique Hotel,757,3.5,2–5 km,secondary
+315-p1,315,ดอนหัวฬ่อ,D5 Gold สาขา หนองกะขะ,749,3.8,2–5 km,secondary
+315-p1,315,ดอนหัวฬ่อ,N24 Chonburi,635,3.8,2–5 km,secondary
+315-p1,315,ดอนหัวฬ่อ,Patoey House,544,3.8,2–5 km,secondary
+315-p1,315,ดอนหัวฬ่อ,โรงแรมทูมอร์โรว์แลนด์ อมตะนคร,757,6.2,5–10 km,secondary
+315-p1,315,ดอนหัวฬ่อ,Orchid Residence Amata,463,6.3,5–10 km,secondary
+315-p1,315,ดอนหัวฬ่อ,i24 Residence - Amata Phase 10,659,6.9,5–10 km,secondary
+315-p1,315,ดอนหัวฬ่อ,D5 Hotel สาขา มาบโป่ง,535,7.4,5–10 km,secondary
+315-p1,315,ดอนหัวฬ่อ,Mybed Chonburi,614,8.0,5–10 km,secondary
+315-p1,315,ดอนหัวฬ่อ,Thani Residence,595,8.3,5–10 km,secondary
+362-p1,362,ตะกุด,โรงแรมเรือนขุมทรัพย์,463,3.0,2–5 km,secondary
+362-p1,362,ตะกุด,At Home สระบุรี,421,3.2,2–5 km,secondary
+362-p1,362,ตะกุด,ควีนเพลส สระบุรี Queenplace Saraburi,561,3.6,2–5 km,secondary
+362-p1,362,ตะกุด,โรงแรมเมืองเพรียวอินน์ Mueang Phriao Inn Hotel,551,4.0,2–5 km,secondary
+362-p1,362,ตะกุด,MP Inn,467,4.0,2–5 km,secondary
+362-p1,362,ตะกุด,HOP INN Saraburi,664,4.5,2–5 km,secondary
+362-p1,362,ตะกุด,บ้านพระจันทร์ รีสอร์ท,701,5.4,5–10 km,secondary
+362-p1,362,ตะกุด,Grand Pruksa Siri Apartment,552,5.7,5–10 km,secondary
+362-p1,362,ตะกุด,Wai zin,39,7.6,5–10 km,secondary
+362-p1,362,ตะกุด,changrojresort,557,8.9,5–10 km,secondary
+362-p2,362,บ้านโคกสว่าง,Grand Pruksa Siri Apartment,552,0.4,≤2 km,secondary
+362-p2,362,บ้านโคกสว่าง,บ้านพระจันทร์ รีสอร์ท,701,1.2,≤2 km,secondary
+362-p2,362,บ้านโคกสว่าง,HOP INN Saraburi,664,1.3,≤2 km,secondary
+362-p2,362,บ้านโคกสว่าง,Wai zin,39,2.1,2–5 km,secondary
+362-p2,362,บ้านโคกสว่าง,At Home สระบุรี,421,2.5,2–5 km,secondary
+362-p2,362,บ้านโคกสว่าง,MP Inn,467,3.5,2–5 km,secondary
+362-p2,362,บ้านโคกสว่าง,โรงแรมเมืองเพรียวอินน์ Mueang Phriao Inn Hotel,551,3.5,2–5 km,secondary
+362-p2,362,บ้านโคกสว่าง,ควีนเพลส สระบุรี Queenplace Saraburi,561,3.7,2–5 km,secondary
+362-p2,362,บ้านโคกสว่าง,โรงแรมเรือนขุมทรัพย์,463,5.7,5–10 km,secondary
+402-p3,402,ป่าคลอก,Anatasia Apartment Phuket,667,0.8,≤2 km,secondary
+402-p3,402,ป่าคลอก,Rosemary Phuket,583,1.4,≤2 km,secondary
+402-p3,402,ป่าคลอก,A House Thalang เอ เฮ้าส์ ถลาง,750,1.8,≤2 km,secondary
+402-p3,402,ป่าคลอก,Turtle Rooms,715,2.2,2–5 km,secondary
+402-p3,402,ป่าคลอก,BullDog Travel Home,667,4.8,2–5 km,secondary
+402-p3,402,ป่าคลอก,Hotel De Ratt,677,5.0,2–5 km,secondary
+402-p3,402,ป่าคลอก,N&N HOUSE Laem Hin,508,5.0,2–5 km,secondary
+402-p3,402,ป่าคลอก,EnDanni Home,101,5.1,5–10 km,secondary
+402-p3,402,ป่าคลอก,enDanni Bed,102,5.1,5–10 km,secondary
+402-p3,402,ป่าคลอก,365house205,413,6.4,5–10 km,secondary
+402-p3,402,ป่าคลอก,Baan Kim Lian SHA,590,6.9,5–10 km,secondary
+402-p3,402,ป่าคลอก,B&B NAMO PHUKET,792,7.3,5–10 km,secondary
+402-p3,402,ป่าคลอก,Bannnatha,708,7.4,5–10 km,secondary
+402-p3,402,ป่าคลอก,Auntie & Niece PHUKET,792,7.5,5–10 km,secondary
+402-p3,402,ป่าคลอก,JJ Residence Phuket Town,538,7.5,5–10 km,secondary
+402-p2,402,ถลาง,Batikseafood Airport & Room,741,3.5,2–5 km,secondary
+402-p2,402,ถลาง,Friends Hostel - Phuket Airport,523,3.9,2–5 km,secondary
+402-p2,402,ถลาง,Friends Retreat - Phuket Airport,732,3.9,2–5 km,secondary
+402-p2,402,ถลาง,THE NAIYANGHOUSE,590,4.0,2–5 km,secondary
+402-p2,402,ถลาง,Bell Lifestyle Hostel Phuket,667,4.0,2–5 km,secondary
+402-p2,402,ถลาง,Guesthouse Phuket Airport,788,4.0,2–5 km,secondary
+402-p2,402,ถลาง,KT Hotel Airport,673,4.2,2–5 km,secondary
+402-p2,402,ถลาง,The Tent Naiyang,667,4.7,2–5 km,secondary
+402-p2,402,ถลาง,Ban Don Holidayhome,694,8.8,5–10 km,secondary
+402-p2,402,ถลาง,enDanni Bed,102,9.3,5–10 km,secondary
+402-p2,402,ถลาง,EnDanni Home,101,9.3,5–10 km,secondary
+402-p2,402,ถลาง,BullDog Travel Home,667,9.7,5–10 km,secondary
+402-p2,402,ถลาง,Hanuman VIP Hostel,787,10.0,5–10 km,secondary
+291-p3,291,บ้านหม้อ,Top Inn Hotel,616,2.3,2–5 km,secondary
+291-p3,291,บ้านหม้อ,New Siya Hotel,509,2.5,2–5 km,secondary
+291-p3,291,บ้านหม้อ,ดีลิฟวิ่ง เพลส มหาสารคาม,514,3.6,2–5 km,secondary
+291-p3,291,บ้านหม้อ,Khampu Resident ก้ามปู เรสซิเด้นท์,748,3.7,2–5 km,secondary
+291-p3,291,บ้านหม้อ,TheBloomMahasarakham,709,4.3,2–5 km,secondary
+291-p3,291,บ้านหม้อ,Landmark Maha Sarakham,748,4.4,2–5 km,secondary
+291-p3,291,บ้านหม้อ,Ketsara Hotel,513,4.6,2–5 km,secondary
+291-p3,291,บ้านหม้อ,กัญญ่า เพลส KANYA,588,4.6,2–5 km,secondary
+291-p3,291,บ้านหม้อ,โรงแรมวรัญญูเฮ้าส์ & รีสอร์ท,421,4.9,2–5 km,secondary
+291-p3,291,บ้านหม้อ,ชลธี รีสอร์ท,486,5.7,5–10 km,secondary
+291-p3,291,บ้านหม้อ,HOP INN Mahasarakham,692,6.0,5–10 km,secondary
+291-p3,291,บ้านหม้อ,SiRi Resort,607,6.7,5–10 km,secondary
+291-p1,291,บ้านดินดำ,HOP INN Mahasarakham,692,1.5,≤2 km,secondary
+291-p1,291,บ้านดินดำ,โรงแรมวรัญญูเฮ้าส์ & รีสอร์ท,421,2.7,2–5 km,secondary
+291-p1,291,บ้านดินดำ,Ketsara Hotel,513,2.8,2–5 km,secondary
+291-p1,291,บ้านดินดำ,กัญญ่า เพลส KANYA,588,2.9,2–5 km,secondary
+291-p1,291,บ้านดินดำ,Landmark Maha Sarakham,748,3.0,2–5 km,secondary
+291-p1,291,บ้านดินดำ,ชลธี รีสอร์ท,486,3.2,2–5 km,secondary
+291-p1,291,บ้านดินดำ,TheBloomMahasarakham,709,3.4,2–5 km,secondary
+291-p1,291,บ้านดินดำ,ดีลิฟวิ่ง เพลส มหาสารคาม,514,3.8,2–5 km,secondary
+291-p1,291,บ้านดินดำ,Khampu Resident ก้ามปู เรสซิเด้นท์,748,4.1,2–5 km,secondary
+291-p1,291,บ้านดินดำ,New Siya Hotel,509,4.9,2–5 km,secondary
+291-p1,291,บ้านดินดำ,Top Inn Hotel,616,5.0,2–5 km,secondary
+291-p1,291,บ้านดินดำ,The Orchid Resort & Relax,769,8.2,5–10 km,secondary
+291-p1,291,บ้านดินดำ,SiRi Resort,607,8.6,5–10 km,secondary
+216-p2,216,บ้านหนองหิน,The Season Airport Udonthani,463,1.7,≤2 km,secondary
+216-p2,216,บ้านหนองหิน,โรงแรมแอร์เบสท์ - Airbest Hotel,704,1.9,≤2 km,secondary
+216-p2,216,บ้านหนองหิน,Ban Mali Homestay,547,2.1,2–5 km,secondary
+216-p2,216,บ้านหนองหิน,V Tharm Hotel,699,3.7,2–5 km,secondary
+216-p2,216,บ้านหนองหิน,ต้นทรัพย์ เพลส,505,3.7,2–5 km,secondary
+216-p2,216,บ้านหนองหิน,Kitlada Hotel Udonthani,722,3.7,2–5 km,secondary
+216-p2,216,บ้านหนองหิน,Ban Ton Resort,682,3.7,2–5 km,secondary
+216-p2,216,บ้านหนองหิน,The Siri Place,598,4.0,2–5 km,secondary
+216-p2,216,บ้านหนองหิน,Delio Boutique Hotel,537,4.1,2–5 km,secondary
+216-p2,216,บ้านหนองหิน,Good Home@Udon Thani Resort,501,4.5,2–5 km,secondary
+216-p2,216,บ้านหนองหิน,จินตคาม โฮมเพลส อุดรธานี,710,4.7,2–5 km,secondary
+216-p2,216,บ้านหนองหิน,Prajaktra City Hostel,594,4.8,2–5 km,secondary
+216-p2,216,บ้านหนองหิน,Chanathinat Place,311,5.1,5–10 km,secondary
+216-p2,216,บ้านหนองหิน,Takanta Place,637,5.2,5–10 km,secondary
+216-p2,216,บ้านหนองหิน,Hug Udon ฮักอุดร,794,5.2,5–10 km,secondary
+291-p2,291,บ้านโนนม่วง,Khampu Resident ก้ามปู เรสซิเด้นท์,748,1.1,≤2 km,secondary
+291-p2,291,บ้านโนนม่วง,TheBloomMahasarakham,709,1.4,≤2 km,secondary
+291-p2,291,บ้านโนนม่วง,ชลธี รีสอร์ท,486,1.5,≤2 km,secondary
+291-p2,291,บ้านโนนม่วง,โรงแรมวรัญญูเฮ้าส์ & รีสอร์ท,421,1.8,≤2 km,secondary
+291-p2,291,บ้านโนนม่วง,กัญญ่า เพลส KANYA,588,1.9,≤2 km,secondary
+291-p2,291,บ้านโนนม่วง,ดีลิฟวิ่ง เพลส มหาสารคาม,514,2.0,≤2 km,secondary
+291-p2,291,บ้านโนนม่วง,Ketsara Hotel,513,2.1,2–5 km,secondary
+291-p2,291,บ้านโนนม่วง,Top Inn Hotel,616,2.6,2–5 km,secondary
+291-p2,291,บ้านโนนม่วง,New Siya Hotel,509,2.6,2–5 km,secondary
+291-p2,291,บ้านโนนม่วง,Landmark Maha Sarakham,748,2.8,2–5 km,secondary
+291-p2,291,บ้านโนนม่วง,HOP INN Mahasarakham,692,2.9,2–5 km,secondary
+291-p2,291,บ้านโนนม่วง,SiRi Resort,607,4.6,2–5 km,secondary
+216-p1,216,บ้านบ่อน้ำ,TK hotel Udonthani,631,0.35,≤2 km,secondary
+216-p1,216,บ้านบ่อน้ำ,Veerakit Grand Hotel Udon Thani,418,0.7,≤2 km,secondary
+216-p1,216,บ้านบ่อน้ำ,I View Park 2,511,0.7,≤2 km,secondary
+216-p1,216,บ้านบ่อน้ำ,Wanpen Place,551,0.8,≤2 km,secondary
+216-p1,216,บ้านบ่อน้ำ,Baan MangMee Resort Udonthani,454,1.0,≤2 km,secondary
+216-p1,216,บ้านบ่อน้ำ,The Cottage Hotel Udon Thani,701,1.3,≤2 km,secondary
+216-p1,216,บ้านบ่อน้ำ,Zleep D Hotel,794,1.4,≤2 km,secondary
+216-p1,216,บ้านบ่อน้ำ,Samrong Garden,446,1.6,≤2 km,secondary
+216-p1,216,บ้านบ่อน้ำ,Udoncabana,512,1.8,≤2 km,secondary
+216-p1,216,บ้านบ่อน้ำ,The Rhea,416,1.9,≤2 km,secondary
+216-p1,216,บ้านบ่อน้ำ,Green Garden Place,449,1.9,≤2 km,secondary
+216-p1,216,บ้านบ่อน้ำ,Goodhome@Udonthani,586,1.9,≤2 km,secondary
+216-p1,216,บ้านบ่อน้ำ,Hug Udon ฮักอุดร,794,2.1,2–5 km,secondary
+216-p1,216,บ้านบ่อน้ำ,Takanta Place,637,2.2,2–5 km,secondary
+216-p1,216,บ้านบ่อน้ำ,Palette Legacy Udon Thani,628,2.2,2–5 km,secondary
+216-p3,216,บ้านดงเค็ง,ภูมิพิมานเฮ้าส์,543,2.0,≤2 km,secondary
+216-p3,216,บ้านดงเค็ง,Sunshine Place Udon,416,2.0,≤2 km,secondary
+216-p3,216,บ้านดงเค็ง,The Like hotel,561,2.2,2–5 km,secondary
+216-p3,216,บ้านดงเค็ง,Nuntiya Terrace,467,2.4,2–5 km,secondary
+216-p3,216,บ้านดงเค็ง,The Resto,508,2.5,2–5 km,secondary
+216-p3,216,บ้านดงเค็ง,Banjan Stay,533,2.5,2–5 km,secondary
+216-p3,216,บ้านดงเค็ง,The Lion King Hotel by Thai Baan Ozone Udonthani,688,2.7,2–5 km,secondary
+216-p3,216,บ้านดงเค็ง,The Cape Hotel,551,3.1,2–5 km,secondary
+216-p3,216,บ้านดงเค็ง,TR Hotel Udon Thani,577,3.5,2–5 km,secondary
+216-p3,216,บ้านดงเค็ง,Pakdee House,528,3.5,2–5 km,secondary
+216-p3,216,บ้านดงเค็ง,HOP INN Udonthani City Center,794,3.5,2–5 km,secondary
+216-p3,216,บ้านดงเค็ง,จินตคาม โฮมเพลส อุดรธานี,710,3.7,2–5 km,secondary
+216-p3,216,บ้านดงเค็ง,The Good Days,542,3.7,2–5 km,secondary
+216-p3,216,บ้านดงเค็ง,Silver Reef,654,3.8,2–5 km,secondary
+216-p3,216,บ้านดงเค็ง,PSG Hotel,583,3.8,2–5 km,secondary
